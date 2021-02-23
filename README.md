@@ -1,1 +1,1 @@
-# static-gsqd
+# wp test in gpages
